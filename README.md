@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
-    <img src="static/img/jlab-logo.png" alt="Master">
+    <img src="static/img/jlab-logo.png" width="200px" alt="Master">
   </a>
 </p>
 
