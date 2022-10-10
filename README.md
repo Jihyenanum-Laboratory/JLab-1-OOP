@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
+  <a href="https://github.com/Jihyenanum-Laboratory">
     <img src="static/img/jlab-logo.png" width="200px" alt="Master">
   </a>
 </p>
